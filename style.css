@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #f0d373c6;
+  }
+
+  .dark-background { background-color: rgb(132, 138, 236);
+    color: white;}
+
+  h1,h2,h4.center {
+    text-align: center;
+  }
+header h1 {
+    .color: #34a6e8;
+  }
+
+.center {text-align: center;}
+
+footer {
+    background-color: rgb(58, 111, 172); color: grey;
+    margin: 300px 2 2 2;
+    padding: 20px 0;
+}
